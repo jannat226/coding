@@ -1,0 +1,1 @@
+Enter the size of array, you want and its length Enter the elements of the arrayEnter the element you want to insert 0Element have been inserted
